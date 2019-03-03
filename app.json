@@ -1,0 +1,7 @@
+{  
+    "name": "Friend Finder",
+    "description": "This app matches you with your best match based off questions.",
+    "keywords": [ "node", "express", "json"],
+    "repository": "https://github.com/Eligv99/FriendFinder",
+    "logo": "https://small-sharp-tool.com/logo.svg"
+}
