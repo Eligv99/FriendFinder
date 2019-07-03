@@ -39,4 +39,4 @@ $ node server.js
 
 # Author
 
-See contribution history [here]()
+See contribution history [here](https://github.com/Eligv99/FriendFinder/graphs/contributors)
